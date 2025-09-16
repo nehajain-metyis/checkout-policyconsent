@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "0cb05864b0c846f48dbe2e5772dde2ca"
-application_url = "https://checkout-sip-draw-involved.trycloudflare.com"
+application_url = "https://ripe-structures-lopez-nz.trycloudflare.com"
 embedded = true
 name = "checkout-policyconsent"
 handle = "checkout-policyconsent"
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://checkout-sip-draw-involved.trycloudflare.com/auth/callback",
-  "https://checkout-sip-draw-involved.trycloudflare.com/auth/shopify/callback",
-  "https://checkout-sip-draw-involved.trycloudflare.com/api/auth/callback"
+  "https://ripe-structures-lopez-nz.trycloudflare.com/auth/callback",
+  "https://ripe-structures-lopez-nz.trycloudflare.com/auth/shopify/callback",
+  "https://ripe-structures-lopez-nz.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
